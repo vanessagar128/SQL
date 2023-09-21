@@ -27,6 +27,8 @@ VALUES
     (14, 'Cutlery Set', 'Kitchen Supplies', 34.50, 40, 4.4),
     (15, 'Cozy Throw Blanket', 'Furnishings', 24.99, 100, 4.2);
 
+#The following are SQL queries based on the previous data entry:
+
 #SQL query using a SELECT statement that orders the items by price.
 Select *
 From superstore
