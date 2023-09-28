@@ -79,7 +79,7 @@ SELECT title
 FROM "netflix_titles_info"
 ORDER BY title ASC;
 
-#4. Who was the Director for the movie titled **The Starling?
+#4. Who was the Director for the movie titled The Starling?
 SELECT director
 FROM "netflix_people" people
 LEFT JOIN "netflix_titles_info" titles
